@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **MERN Stack**
 
-- 📫 How to reach me **amulyakuraati1@gmail.com**
+- 📫 How to reach me **amulyakurapati1@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/17EPOEDVMmY-H_Nvk3nmxywhaUByOaps0/edit](https://docs.google.com/document/d/17EPOEDVMmY-H_Nvk3nmxywhaUByOaps0/edit)
 
