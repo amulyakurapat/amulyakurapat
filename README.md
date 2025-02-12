@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/17EPOEDVMmY-H_Nvk3nmxywhaUByOaps0/edit](https://docs.google.com/document/d/17EPOEDVMmY-H_Nvk3nmxywhaUByOaps0/edit)
 
-- ⚡ Fun fact **I like connecting API's than connecting with people😉**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
