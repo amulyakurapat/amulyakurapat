@@ -11,10 +11,9 @@
 
 - 📫 How to reach me **amulyakurapati1@gmail.com**
 
-- 📄 Know about my experiences - 📄 [⬇️ Download My Resume](./Amulya%20CV.docx)
-
-
-
+- 📄 **Know about my experiences:**  
+  - 📎 [View My Resume](./Amulya%20CV.docx)  
+  - ⬇️ [Download My Resume](./Amulya%20CV.docx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
